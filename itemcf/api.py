@@ -126,5 +126,3 @@ if __name__ == '__main__':
     rec_movies = model.recommend(-1)
     rec_movies = index_pipei2(rec_movies)
     print(tuple(rec_movies))
-
-
