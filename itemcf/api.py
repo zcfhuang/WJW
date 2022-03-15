@@ -77,6 +77,7 @@ def word_api(word):
     # rec_movies = model.test(testset,logger)
     rec_movies = model.recommend(-1)
     rec_movies = index_pipei2(rec_movies)
+    rec_movies=''.join(rec_movies) 
     return rec_movies
 
 def index_pipei(word_string):
