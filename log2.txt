@@ -1,0 +1,181 @@
+2022-03-14 21:54:35,685 - itemcf.api - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 21:54:35,686 - itemcf.api - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 21:54:35,804 - itemcf.api - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 21:54:36,538 - itemcf.api - INFO - precision=0.4450	recall=0.5075	coverage=0.6585	popularity=4.5235
+
+2022-03-14 21:54:37,015 - itemcf.api - INFO - precision=0.4450	recall=0.5075	coverage=0.6585	popularity=4.5235
+
+2022-03-14 22:15:30,924 - __main__ - INFO - dataset_name: my_data, sim:Jaccard, model_type:UserCF, test_size:0.2 
+2022-03-14 22:15:30,926 - __main__ - INFO - 	This is UserCF model trained on my_data with test_size = 0.20
+2022-03-14 22:15:55,042 - __main__ - INFO - dataset_name: my_data, sim:Jaccard, model_type:UserCF, test_size:0.2 
+2022-03-14 22:15:55,043 - __main__ - INFO - 	This is UserCF model trained on my_data with test_size = 0.20
+2022-03-14 23:01:12,213 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:01:12,214 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:01:12,361 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:01:13,041 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:01:13,244 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:02:49,219 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:02:49,220 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:02:49,369 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:02:50,033 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:02:50,228 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:03:44,269 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:03:44,270 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:03:44,417 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:03:45,052 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:03:45,247 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:04:32,880 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:04:32,882 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:04:33,029 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:04:33,683 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:05:20,254 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:05:20,254 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:05:20,298 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:05:20,697 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:05:35,929 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:05:35,930 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:05:35,960 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:05:36,341 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:06:39,109 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:06:39,110 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:06:39,142 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:07:07,694 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:07:07,696 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:07:07,844 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:08:28,133 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:08:28,134 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:08:28,165 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:08:28,546 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:09:00,345 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:09:00,347 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:09:00,488 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:10:03,457 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:14:35,241 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:14:35,243 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:14:35,391 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:14:37,390 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:14:54,877 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:14:54,878 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:14:54,912 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:14:55,291 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:16:47,885 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:16:47,885 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:16:47,916 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:16:48,299 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:17:16,217 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:17:16,218 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:17:16,372 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:17:21,081 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:18:59,588 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:18:59,589 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:18:59,731 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:19:00,362 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:19:18,241 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:19:18,242 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:19:18,399 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:19:19,122 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:25:46,386 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:25:46,387 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:25:46,583 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:25:51,639 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:29:24,644 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:29:24,645 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:29:24,840 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:29:31,200 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:29:42,937 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:29:42,939 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:29:43,093 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:29:43,764 - __main__ - INFO - precision=0.8405	recall=0.3995	coverage=0.8720	popularity=4.5119
+
+2022-03-14 23:30:02,058 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:30:02,060 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:30:02,213 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:33:51,037 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:34:34,133 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:34:34,134 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:38:00,846 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:38:00,847 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:38:53,337 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:38:53,337 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:38:53,368 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:38:53,743 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.4764
+
+2022-03-14 23:39:03,050 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:39:03,051 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:39:07,208 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:39:11,885 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.4764
+
+2022-03-14 23:39:19,354 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:39:19,355 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:39:22,116 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:39:22,762 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.4764
+
+2022-03-14 23:40:16,325 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:40:16,326 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:40:21,759 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:40:52,184 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.4764
+
+2022-03-14 23:44:06,752 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:44:06,753 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:44:06,784 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:44:07,134 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.5124
+
+2022-03-14 23:44:15,166 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:44:15,167 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:44:15,201 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:44:15,600 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.4764
+
+2022-03-14 23:44:20,860 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:44:20,861 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:44:20,899 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:44:21,276 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8583	popularity=4.5124
+
+2022-03-14 23:44:28,330 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:44:28,331 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:44:28,363 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:44:28,718 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8651	popularity=4.5124
+
+2022-03-14 23:46:04,600 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:46:04,601 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:46:08,839 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:46:16,447 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8651	popularity=4.5124
+
+2022-03-14 23:47:10,135 - __main__ - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:47:10,136 - __main__ - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:47:12,669 - __main__ - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:47:13,325 - __main__ - INFO - precision=0.8339	recall=0.3995	coverage=0.8651	popularity=4.5124
+
+2022-03-14 23:51:14,654 - itemcf.api - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-14 23:51:14,656 - itemcf.api - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-14 23:51:14,687 - itemcf.api - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-14 23:51:15,064 - itemcf.api - INFO - precision=0.8339	recall=0.3995	coverage=0.8651	popularity=4.5124
+
+2022-03-15 00:22:40,836 - itemcf.api - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-15 00:22:40,836 - itemcf.api - INFO - dataset_name: my_data, sim:cos, model_type:ItemCF, test_size:0.2 
+2022-03-15 00:22:40,837 - itemcf.api - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-15 00:22:40,837 - itemcf.api - INFO - 	This is ItemCF model trained on my_data with test_size = 0.20
+2022-03-15 00:22:40,941 - itemcf.api - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-15 00:22:40,941 - itemcf.api - INFO - ItemBasedCF: k_sim_movie: 10, n_rec_movie:10,
+2022-03-15 00:22:41,995 - itemcf.api - INFO - precision=0.8402	recall=0.3984	coverage=0.7520	popularity=4.4948
+
+2022-03-15 00:22:41,995 - itemcf.api - INFO - precision=0.8402	recall=0.3984	coverage=0.7520	popularity=4.4948
+
