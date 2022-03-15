@@ -3,8 +3,8 @@ from ast import Str
 import random
 import os
 from re import S
-_path = os.path.dirname(os.path.abspath(__file__)) +'\\data\\my_data\\word_2022.csv'
-_path2 = os.path.dirname(os.path.abspath(__file__)) +'\\data\\my_data\\index.txt'
+_path = os.path.dirname(os.path.abspath(__file__)) +'/data/my_data/word_2022.csv'
+_path2 = os.path.dirname(os.path.abspath(__file__)) +'/data/my_data/index.txt'
 path2 = os.path.dirname(os.path.abspath(__file__))
 import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
